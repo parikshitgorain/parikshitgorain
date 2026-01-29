@@ -1,30 +1,67 @@
 # Hi, I'm Parikshit Gorain 👋
 
-🚀 **AI Web Developer**  
-🤖 Building intelligent web products using **AI + automation**  
-🌐 Focused on **Affiliate Intelligence Systems**  
-🎙 Currently working on **AI vs Human Voice Detection**
+🚀 **AI Web Developer & System Builder**  
+🤖 Building production-ready AI-powered web platforms  
+🌐 Focused on **Affiliate Intelligence, Monitoring Systems & AI Detection**
 
 ---
 
 ## 🧠 About Me
 
-I’m an **AI-focused Web Developer** who builds smart, scalable applications by combining:
-- Artificial Intelligence
-- Modern web technologies
-- Automation & data-driven systems
+I’m an **AI Web Developer** focused on building **real-world, production-grade systems** that combine:
 
-My goal is to **create real-world AI products** that solve business and security problems.
+- Artificial Intelligence
+- Secure backend architectures
+- Modern web applications
+- Automation & intelligence-driven workflows
+
+I work on both **public showcases** and **private proprietary systems**.
 
 ---
 
-## 🔥 Current Work
+## 🔥 Current & Ongoing Work
 
-- 🧠 **Affiliate Intelligence Platform**  
-  AI-powered system for analyzing, optimizing, and automating affiliate workflows.
+### 🎙 AI Voice Detection System *(Private – In Development)*
+**AI vs Human Voice Classification Platform**
 
-- 🎙 **AI & Human Voice Detector (Ongoing)**  
-  Detects whether a voice is **AI-generated or human** using machine learning and signal analysis.
+- Backend + Frontend system
+- Processes **MP3 audio transiently (no storage)**
+- Extracts deterministic audio features
+- Provides **explainable AI/HUMAN classification**
+- REST API–based architecture
+- Built with privacy-first principles
+
+> 🔒 This project is currently **private** and under active development.
+
+---
+
+### 🌐 Affiliate Intelligence Systems
+- Data-driven affiliate analysis
+- Automation and optimization workflows
+- AI-assisted monitoring and decision support
+
+---
+
+## 🏗️ Public Showcase Projects
+
+### 🧩 EFA Monitoring System (Showcase)
+**Production-ready Monitoring Platform for Education For All (EFA)**
+
+- Role-based access control (Admin, Teacher, Monitor, Staff, Management)
+- Attendance, reporting & audit workflows
+- Student and center monitoring
+- Secure authentication & authorization
+- Scalable architecture
+
+🔗 **Live Demo:** https://efanew.vercel.app/  
+⚠️ *Source code is proprietary and not included.*
+
+---
+
+### 📢 Telegram Ads Marketplace
+- JavaScript-based platform
+- Telegram advertising workflows
+- Marketplace-style system for campaign handling
 
 ---
 
@@ -41,8 +78,9 @@ My goal is to **create real-world AI products** that solve business and security
 
 **AI / ML**
 - AI model integration
-- Voice analysis & detection
-- Data processing pipelines
+- Audio & voice analysis
+- Deterministic feature extraction
+- Explainable classification systems
 
 **Databases**
 - MongoDB
@@ -50,29 +88,23 @@ My goal is to **create real-world AI products** that solve business and security
 
 ---
 
-## 📌 Featured Projects
+## 🔒 Development Philosophy
 
-- **Telegram Ads Marketplace**  
-  A platform for managing and running Telegram-based advertising campaigns.
-
-- **EFA Monitoring System**  
-  Monitoring & analytics system (demo available).
-
----
-
-## 📈 What I’m Learning
-
-- Advanced AI model deployment
-- Voice & audio-based AI detection
-- Scaling AI-powered web apps
+- Privacy-first system design
+- Secure, role-based architectures
+- Real production systems over toy projects
+- Clear separation of **public showcases** and **private IP**
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact & Collaboration
 
-- GitHub: [@parikshitgorain](https://github.com/parikshitgorain)
-- Location: India 🇮🇳
+- GitHub: **@parikshitgorain**
+- Location: **India 🇮🇳**
+- Email: **parikshitgorain@yahoo.com**
+
+> Open to **serious collaboration, licensing discussions, and system deployments**.
 
 ---
 
-⭐ *Always open to learning, building, and collaborating on AI-driven projects.*
+⭐ *Building real systems. Not just demos.*
