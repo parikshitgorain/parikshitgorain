@@ -222,9 +222,16 @@ Discord bot for channel restrictions and custom command management.
 
 <div align="center">
 
-| GitHub Streak | Top Languages |
-| :---: | :---: |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parikshitgorain&theme=radical&hide_border=true&background=0d1117&stroke=ff79c6&ring=ff79c6&fire=ff79c6&currStreakLabel=f8f8f2) | ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parikshitgorain&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2) |
+<table border="0" width="100%">
+<tr>
+<td width="50%" align="center" style="border: none;">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=parikshitgorain&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6&text_color=f8f8f2" alt="GitHub Stats" />
+</td>
+<td width="50%" align="center" style="border: none;">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parikshitgorain&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
 </div>
 
