@@ -350,9 +350,10 @@ I believe in honest attribution. Where AI contributed significantly (~65%+ in Te
 | 💬 **Discord** | @p_arik | Tech discussions & community |
 
 </div>
-<div align="center">
+
 ### 🔗 **Live Project Demos**
 
+<div align="center">
 | Project | URL | Description |
 |---------|-----|-------------|
 | 🎰 **TZBETZ** | [tzbetz.com](http://tzbetz.com) | Real-time gaming platform with crash games |
