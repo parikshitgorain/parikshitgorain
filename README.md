@@ -350,7 +350,7 @@ I believe in honest attribution. Where AI contributed significantly (~65%+ in Te
 | 💬 **Discord** | @p_arik | Tech discussions & community |
 
 </div>
-
+<div align="center">
 ### 🔗 **Live Project Demos**
 
 | Project | URL | Description |
@@ -361,7 +361,7 @@ I believe in honest attribution. Where AI contributed significantly (~65%+ in Te
 | 🎓 **EFA Monitor** | [efanew.vercel.app](https://efanew.vercel.app) | Education management platform |
 
 <br/>
-
+</div>
 ---
 
 <div align="center">
