@@ -352,13 +352,16 @@ I believe in honest attribution. Where AI contributed significantly (~65%+ in Te
 </div>
 
 ### 🔗 **Live Project Demos**
-
+<div align="center">
+  
 | Project | URL | Description |
 |---------|-----|-------------|
 | 🎰 **TZBETZ** | [tzbetz.com](http://tzbetz.com) | Real-time gaming platform with crash games |
 | 🎲 **Hectic** | [hecticgambles.com](https://www.hecticgambles.com) | Dual-site affiliate leaderboard hub |
 | 🎤 **Voice AI** | [voiceai.parikshit.dev](http://voiceai.parikshit.dev) | Multilingual AI voice detection system |
 | 🎓 **EFA Monitor** | [efanew.vercel.app](https://efanew.vercel.app) | Education management platform |
+
+</div>
 
 <br/>
 ---
